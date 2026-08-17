@@ -1,16 +1,17 @@
-## Hi there 👋
+# oBlech
+### Full-Stack Developer | QA Automation Engineer (SDET)
 
-<!--
-**oBlech/oBlech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer with 4+ years of experience building modern web applications, specializing in automated test infrastructure using **Playwright**, **TypeScript**, and **GitHub Actions**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Competencies
+* **Test Automation:** End-to-End (E2E), integration, and REST API testing with Playwright (Page Object Model architecture).
+* **Software Development:** React, Next.js, TypeScript, Tailwind CSS, Node.js, and REST APIs.
+* **CI/CD Integration:** Automated test execution and cross-browser validation via GitHub Actions.
+
+---
+
+### Tech Stack
+* **Testing:** Playwright, TypeScript, Jest, REST APIs, CI/CD
+* **Development:** React, Next.js, JavaScript, Node.js, Git, HTML/CSS
