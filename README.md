@@ -6,9 +6,9 @@ Full-stack developer with 4+ years of experience building modern web application
 ---
 
 ### Featured Projects & Live Sites
+* **[Luminiq](https://luminiq.ca)** — Premium e-commerce storefront for deluxe sunglasses and eyewear.
+* **[Showman Painting](https://showmanpainting.com)** — High-converting, responsive business site and portfolio for a professional painting business.
 * **[FidgetDoc](https://fidgetdoc.com)** — Direct-to-consumer e-commerce store for precision EDC and sensory gear.
-* **[Showman Painting](https://showmanpainting.com)** — Business website and quote portal for a commercial & residential painting contractor.
-* **[Luminiq](https://luminiq.ca)** — AI-powered automation and booking platform built for service businesses.
 
 ---
 
