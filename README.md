@@ -5,10 +5,10 @@ Full-stack developer with 4+ years of experience building modern web application
 
 ---
 
-### Featured Projects & Live Deployments
-* **[FidgetDoc](https://fidgetdoc.com)** — Web application designed and built for responsive performance and seamless user interaction.
-* **[Showman Painting](https://showmanpainting.com)** — Commercial client site featuring modern UI/UX design, accessible navigation, and optimized assets.
-* **[Luminiq](https://luminiq.ca)** — Production web platform engineered with clean component architecture and cross-browser reliability.
+### Featured Projects & Live Sites
+* **[FidgetDoc](https://fidgetdoc.com)** — Direct-to-consumer e-commerce store for precision EDC and sensory gear.
+* **[Showman Painting](https://showmanpainting.com)** — Business website and quote portal for a commercial & residential painting contractor.
+* **[Luminiq](https://luminiq.ca)** — AI-powered automation and booking platform built for service businesses.
 
 ---
 
