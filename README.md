@@ -1,7 +1,7 @@
 # Hello!
 ### Full-Stack Developer | QA Automation Engineer (SDET)
 
-Full-stack developer with 4+ years of experience building modern web applications, specializing in automated test infrastructure using **Playwright**, **TypeScript**, and **GitHub Actions**.
+Full-stack developer with 4+ years of experience building modern web applications, now specializing in automated test infrastructure using **Playwright**, **TypeScript**, and **GitHub Actions**.
 
 ---
 
